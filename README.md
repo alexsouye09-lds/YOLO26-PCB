@@ -51,11 +51,5 @@ Potential collaborators & forward‑thinking tech partners:
 ```text
 YOLO26‑Industrial‑PCB/
 ├── README.md
-├── data/
-│   ├── train/
-│   ├── val/
 ├── models/
-├── configs/
-├── scripts/
-├── results/
 └── LICENSE
